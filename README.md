@@ -4,7 +4,7 @@
 
   <h2 id="sobre"> 📋 Sobre o projeto</h2>
 
-Aplicativos desenvolvido para a disciplina de Dispositivos Moveis.
+Aplicativo de receitas desenvolvido para a disciplina de dispositivo moveis
 
 <h2 id="layout"> 🎨  Layout </h2>
 
